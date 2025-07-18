@@ -3,3 +3,7 @@
 <br>
 
 # I have made changes added, commited and pushed
+
+◽ Add
+◽ Commit and message
+◽ Push
